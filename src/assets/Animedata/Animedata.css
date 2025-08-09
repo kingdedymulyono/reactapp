@@ -1,0 +1,18 @@
+.animeBox{
+    width: fit-content !important;
+}
+.apcbox{
+    margin:0 -2rem;
+}
+/* img{
+    width: 50dvw !important;
+    height: 64dvw !important;
+    object-fit: cover;
+}
+
+@media (max-width:720px){
+    img{
+        width: 50dvw !important;
+        height: 64dvw !important;
+    }
+} */

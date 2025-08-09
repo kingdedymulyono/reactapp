@@ -1,0 +1,10 @@
+.product{
+    max-width: 20dvw;
+    max-height: 20dvw;
+    margin: 1rem;
+}
+.itemrow{
+    backdrop-filter: blur(6px);
+    padding-bottom:2rem;
+    padding-top:2rem;
+}

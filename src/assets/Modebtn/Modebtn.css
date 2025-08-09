@@ -1,0 +1,7 @@
+.modeBtn{
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    /* transition: 1s; */
+    z-index: 99;
+}
